@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-
+sentimentAnalyzeServer/node_modules
 .vscode
 
 __pycache__/
